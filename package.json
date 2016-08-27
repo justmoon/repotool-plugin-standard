@@ -1,0 +1,31 @@
+{
+  "name": "repotool-plugin-standard",
+  "version": "0.0.0",
+  "description": "Automatically set up JavaScript Standard Style using repotool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmoon/repotool-plugin-standard.git"
+  },
+  "keywords": [
+    "standard",
+    "style",
+    "javascript",
+    "npm",
+    "setup",
+    "package"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/repotool-plugin-standard/issues"
+  },
+  "homepage": "https://github.com/justmoon/repotool-plugin-standard#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "lodash": "^4.15.0"
+  }
+}
